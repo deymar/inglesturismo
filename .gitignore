@@ -1,5 +1,5 @@
 /img
-/vendor
+/vendor/*
 /scss
 /css
 /js 
